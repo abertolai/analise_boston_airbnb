@@ -36,7 +36,7 @@ Este projeto foi realizado para um investidor interessado em adquirir 10 casas d
    * Análise da "vibe" dos bairros de Boston.
    * Porcentagem de listagens por tipo de propriedade.
    * Dados estatísticos sobre a média de ocupação anual, avaliações e preços por noite.
-   * Análise de sensibilidade de preços conforme a localização.
+   * Análises de sensibilidade.
    * Recomendações finais com base nos resultados da análise.
    
 ## Principais Resultados
@@ -57,7 +57,7 @@ Este projeto foi realizado para um investidor interessado em adquirir 10 casas d
 
 ## Ferramentas Utilizadas
    * **Python:** Pandas, NumPy, Matplotlib, Seaborn
-   * **Tableau:** Dashboards interativos e gráficos
+   * **Tableau:** Análise a partir de gráficos
    * **Canva:** Criação da apresentação visual
 
 ## Como Usar
@@ -66,4 +66,4 @@ Este projeto foi realizado para um investidor interessado em adquirir 10 casas d
    * O arquivo Tableau com as visualizações interativas está disponível na pasta ***visualizacoes/***.
    * Os datasets utilizados no Tableau se encontram na pasta ***visualizacoes/arquivos_excel/***.
    * Os arquivos extraídos do Tableau se encontram na pasta ***arquivos_extraidos_tableau/***.
-   * A apresentação final em PDF está na pasta ***presentation/***, porém recomendo que utilize o link público para acessar a apresentação no canva com as animações: **[Apresentação Canva](https://www.canva.com/design/DAGMgxWLc3U/C7I_6VQINjESNRvCB93ARA/view?utm_content=DAGMgxWLc3U&utm_campaign=designshare&utm_medium=link&utm_source=)**
+   * A apresentação final em PDF está na pasta ***apresentacao/***, porém recomendo que utilize o link público para acessar a apresentação no canva com as animações: **[Apresentação Canva](https://www.canva.com/design/DAGMgxWLc3U/C7I_6VQINjESNRvCB93ARA/view?utm_content=DAGMgxWLc3U&utm_campaign=designshare&utm_medium=link&utm_source=)**
